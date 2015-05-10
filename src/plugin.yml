@@ -1,4 +1,4 @@
-name: BukkitTelnet
+name: AlphaTelnet
 main: me.StevenLawson.BukkitTelnet.BukkitTelnet
 version: 4.1
 description: Telnet console access plugin.
